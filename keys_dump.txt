@@ -1,0 +1,5 @@
+Top level keys in pageProps: ['pageData', 'validPage', 'fromPerptual', 'hideL2InMobile', 'pageUrl', 'showGlobalScss', 'perptualPageTitle', 'perpetualStoryIndex']
+Keys in pageProps['pageData']: ['navigation', 'id']
+--- Drilling into pageData ---
+  navigation: <class 'list'>
+  id: <class 'str'>

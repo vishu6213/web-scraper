@@ -1,0 +1,8 @@
+playwright
+beautifulsoup4
+pandas
+pydantic
+python-docx
+dateparser
+lxml
+nest_asyncio
